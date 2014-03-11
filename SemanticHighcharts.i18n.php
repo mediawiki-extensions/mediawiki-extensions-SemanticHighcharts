@@ -32,17 +32,14 @@ $messages['en'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'The rotation of the x axis labels. i.e \'-90\'',
 );
 
-
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'semantichighcharts-desc' => '{{desc|name=SemanticHighcharts|url=http://www.mediawiki.org/wiki/Extension:SemanticHighcharts}}',
 	'srf-hc-license-warning' => 'Warning of possible license issue.',
 	'srf-hc-format-highcharts-table-caption' => 'Caption displayed on help table',
-
-	//formats
 	'srf-hc-formatdesc-highcharts' => 'Output format parameter',
 	'srf-hc-formatdesc-hc:frequency-histogram' => 'Output format parameter',
-
-	//parameters
 	'srf-hc-paramdesc-ytitle' => 'Description of parameter ytitle',
 	'srf-hc-paramdesc-xtitle' => 'Description of parameter xtitle',
 	'srf-hc-paramdesc-title' => 'Description of parameter title',
@@ -54,6 +51,13 @@ $messages['qqq'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Description of parameter xlrotation',
 );
 
+/** Arabic (العربية)
+ * @author Gagnabil
+ */
+$messages['ar'] = array(
+	'srf-hc-paramdesc-title' => 'عنوان المخطّط',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */
@@ -61,12 +65,8 @@ $messages['de'] = array(
 	'semantichighcharts-desc' => 'Ermöglicht ein auf die Softwarebibliothek „Highcharts“ gestütztes Ergebnisformat',
 	'srf-hc-license-warning' => 'Dieses Ergebnisformat erfordert vor dessen Nutzung Aufmerksamkeit hinsichtlich der Lizenz. Siehe hierzu die [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License Informationen zur Lizenz].',
 	'srf-hc-format-highcharts-table-caption' => 'Dies ist das Ergebnisformat „highcharts“. Unterhalb befindet sich eine Liste der verfügbaren Formatvarianten mitsamt deren Parametern.',
-
-	//formats
 	'srf-hc-formatdesc-highcharts' => 'Zeigt eine Liste der Formatvarianten mitsamt deren Parametern an.',
 	'srf-hc-formatdesc-hc:frequency-histogram' => 'Erzeugt die Grafik eines auf einen einzelnen Parameter gestützten Häufigkeitshistogramms.',
-
-	//parameters
 	'srf-hc-paramdesc-ytitle' => 'Der Titel der Y-Achse',
 	'srf-hc-paramdesc-xtitle' => 'Der Titel der X-Achse',
 	'srf-hc-paramdesc-title' => 'Der Titel der Grafik',
@@ -76,4 +76,87 @@ $messages['de'] = array(
 	'srf-hc-paramdesc-frequency-histogram-bins' => 'Die Anzahl der anzuzeigenden Säulen',
 	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Der mit einer Säule anzuzeigende Wertebereich',
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Der für die Ausrichtung der Bezeichnungen der X-Achse zu nutzende Rotationswert (bspw. „-90“)',
+);
+
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'semantichighcharts-desc' => 'Un format de résultat SMW affichant les données avec l’aide de la bibliothèque highcharts',
+	'srf-hc-license-warning' => 'Le format de sortie nécessite une attention accrue au vu de la licence. Veuillez vous reporter à https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'Voici le format de résultat « highcharts » de SMW, ci-dessous une liste de tous les formats disponibles et de leurs paramètres.',
+	'srf-hc-formatdesc-highcharts' => 'Affiche une liste de formats et de paramètres.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Crée un graphique d’histogramme de fréquence, acceptant un unique paramètre SMW.',
+	'srf-hc-paramdesc-ytitle' => 'Le titre de l’axe Y',
+	'srf-hc-paramdesc-xtitle' => 'Le titre de l’axe X',
+	'srf-hc-paramdesc-title' => 'Le titre du graphique',
+	'srf-hc-paramdesc-subtitle' => 'Le sous-titre du graphique',
+	'srf-hc-paramdesc-minwidth' => 'La largeur minimale du graphique en px',
+	'srf-hc-paramdesc-height' => 'La hauteur du graphique en px',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Le nombre de barres à afficher',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'La plage de valeurs à mettre dans les barres',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "La rotation des libellés de l’axe X, par ex. '-90'",
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'semantichighcharts-desc' => 'Изводен формат за приказ на податоци со помош на библиотеката на „Highcharts“',
+	'srf-hc-license-warning' => 'На овој изводен формат треба да му се посвети посебно внимание во врска со лиценцирањето. Погледајте ја [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License лиценцната страница]',
+	'srf-hc-format-highcharts-table-caption' => 'Ова е изводен формат „highcharts“ за Семантички МедијаВики. Подолу ќе најдете список на сите расположиви формати и нивните параметри.',
+	'srf-hc-formatdesc-highcharts' => 'Прикажува список на формати и параметри.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Создава честотен хистограмски графикон кој прифаќа по еден параметар.',
+	'srf-hc-paramdesc-ytitle' => 'Насловот на y-оската',
+	'srf-hc-paramdesc-xtitle' => 'Насловот на x-оската',
+	'srf-hc-paramdesc-title' => 'Насловот на графиконот',
+	'srf-hc-paramdesc-subtitle' => 'Поднасловот на графиконот',
+	'srf-hc-paramdesc-minwidth' => 'Минималната ширина на графиконот во пиксели (px)',
+	'srf-hc-paramdesc-height' => 'Висината на графиконот во пиксели (px)',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Број на столбови во приказот',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Опсег на вредностите во столбовите',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Насоченост на натписите на x-оската (на пр. „-90“)',
+);
+
+/** Marathi (मराठी)
+ * @author V.narsikar
+ */
+$messages['mr'] = array(
+	'srf-hc-paramdesc-ytitle' => "'य' अक्षावरील शीर्षक",
+	'srf-hc-paramdesc-xtitle' => "'क्ष' अक्षावरील शीर्षक",
+	'srf-hc-paramdesc-title' => 'तक्त्याचे शीर्षक',
+	'srf-hc-paramdesc-subtitle' => 'तक्त्याचे उपशीर्षक',
+	'srf-hc-paramdesc-minwidth' => 'तक्त्याची कमीत कमी रुंदी पिक्सेलमध्ये',
+	'srf-hc-paramdesc-height' => 'तक्त्याची उंची पिक्सेलमध्ये',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "'क्ष' अक्षावरील लेबल '-90' ने फिरविणे.",
+);
+
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'srf-hc-formatdesc-highcharts' => 'Показывает список форматов и параметров.',
+);
+
+/** Swedish (svenska)
+ * @author Lokal Profil
+ */
+$messages['sv'] = array(
+	'srf-hc-paramdesc-ytitle' => 'Titeln på y-axeln',
+	'srf-hc-paramdesc-xtitle' => 'Titeln på x-axeln',
+	'srf-hc-paramdesc-title' => 'Titeln på diagrammet',
+	'srf-hc-paramdesc-subtitle' => 'Undertiteln på diagrammet',
+	'srf-hc-paramdesc-minwidth' => 'Minsta bredd på diagrammet i pixlar (px)',
+	'srf-hc-paramdesc-height' => 'Minsta höjd på diagrammet i pixlar (px)',
+);
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Liuxinyu970226
+ */
+$messages['zh-hans'] = array(
+	'semantichighcharts-desc' => '显示带highcharts博物馆帮助数据的SMW结果格式',
+	'srf-hc-paramdesc-ytitle' => 'y轴标题',
+	'srf-hc-paramdesc-xtitle' => 'x轴标题',
+	'srf-hc-paramdesc-title' => '图表标题',
+	'srf-hc-paramdesc-subtitle' => '图表子标题',
 );
