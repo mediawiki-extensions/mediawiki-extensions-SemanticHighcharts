@@ -78,6 +78,27 @@ $messages['de'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Der für die Ausrichtung der Bezeichnungen der X-Achse zu nutzende Rotationswert (bspw. „-90“)',
 );
 
+/** Persian (فارسی)
+ * @author Reza1615
+ */
+$messages['fa'] = array(
+	'semantichighcharts-desc' => 'SMW  اطلاعات را با کمک کتابخانه های‌چارت نمایش می دهد',
+	'srf-hc-license-warning' => 'بر پایهٔ مجوزدهی ساختار خروجی نیازمند توجه بیشتری است. لطفاُ به  https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License
+ارجاع دهید.',
+	'srf-hc-format-highcharts-table-caption' => 'این نتیجه های‌چارت برای SMW است، در زیر فهرست تمام فرمت های موجود و متغییرهاییشان  را می توانید بیابید.',
+	'srf-hc-formatdesc-highcharts' => 'نمایش فهرستی از فرمت‌ها و متغییرها',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'ساخت نمودار هیستوگرام تناوبی با پذیرفتن یک متغییر SMW',
+	'srf-hc-paramdesc-ytitle' => 'عنوان محور y',
+	'srf-hc-paramdesc-xtitle' => 'عنوان محور x',
+	'srf-hc-paramdesc-title' => 'عنوان نمودار',
+	'srf-hc-paramdesc-subtitle' => 'زیر عنوان نمودار',
+	'srf-hc-paramdesc-minwidth' => 'حداقل عرض نمودار',
+	'srf-hc-paramdesc-height' => 'ارتفاع نمودار بر حسب پیکسل',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'تعداد دانه‌هایی که باید نمایش داده‌شوند',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'گسترهٔ داده‌های مکان‌ّا که با دانه‌ها باید نمایش داده‌شوند',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "چرخش برچسب محور xها مثلاً  '-90'",
+);
+
 /** French (français)
  * @author Gomoko
  */
@@ -96,6 +117,14 @@ $messages['fr'] = array(
 	'srf-hc-paramdesc-frequency-histogram-bins' => 'Le nombre de barres à afficher',
 	'srf-hc-paramdesc-frequency-histogram-binrange' => 'La plage de valeurs à mettre dans les barres',
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "La rotation des libellés de l’axe X, par ex. '-90'",
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'srf-hc-paramdesc-ytitle' => 'Den Titel vun der Y-Achs',
+	'srf-hc-paramdesc-title' => 'Den Titel vun der Grafik',
 );
 
 /** Macedonian (македонски)
@@ -131,11 +160,57 @@ $messages['mr'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "'क्ष' अक्षावरील लेबल '-90' ने फिरविणे.",
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'srf-hc-license-warning' => 'Ten format wyjściowy wymaga dodatkowej uwagi w odniesieniu do licencji. Proszę odwołać się do https://www.mediawiki.org/wiki/Extension:SemanticHighcharts #License',
+	'srf-hc-formatdesc-highcharts' => 'Pokazuje listę formatów i parametrów.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Tworzy histogram częstotliwości, przyjmując jeden parametr SMW.',
+	'srf-hc-paramdesc-ytitle' => 'Tytuł na osi y',
+	'srf-hc-paramdesc-xtitle' => 'Tytuł na osi x',
+	'srf-hc-paramdesc-title' => 'Tytuł wykresu',
+	'srf-hc-paramdesc-subtitle' => 'Podtytuł wykresu',
+	'srf-hc-paramdesc-minwidth' => 'Minimalna szerokość wykresu w px',
+	'srf-hc-paramdesc-height' => 'Wysokość wykresu w px',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Liczba przedziałów klasowych do pokazania',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Zakres wartości obejmujących przedziały klasowe',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "Obrót etykiety osi x, np. '-90'",
+);
+
 /** Russian (русский)
  * @author Okras
  */
 $messages['ru'] = array(
 	'srf-hc-formatdesc-highcharts' => 'Показывает список форматов и параметров.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Создаёт частотную гистограмму, принимая один параметр СМВ.',
+	'srf-hc-paramdesc-ytitle' => 'Название по оси y',
+	'srf-hc-paramdesc-xtitle' => 'Название по оси x',
+	'srf-hc-paramdesc-title' => 'Заголовок диаграммы',
+	'srf-hc-paramdesc-subtitle' => 'Подзаголовок диаграммы',
+	'srf-hc-paramdesc-minwidth' => 'Минимальная ширина диаграммы в пикселях',
+	'srf-hc-paramdesc-height' => 'Высота диаграммы в пикселях',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Поворот подписей оси x. Например, «-90»',
+);
+
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'semantichighcharts-desc' => 'Aen SMW affcome format displeyin data wi the heelp o the heichairts librie',
+	'srf-hc-license-warning' => 'This ootpit format needs mair attention wi regards til licensin. Please refer til https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'This is the "heichairts" affcome format fer SMW, ablo ye\'ll fynd ae leet o aw available formats n thair boonds.',
+	'srf-hc-formatdesc-highcharts' => 'Shaws ae leet o formats n boonds.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Cræfts ae freequencie histogram chairt, acceptin ae single SMW boond.',
+	'srf-hc-paramdesc-ytitle' => 'The title oan the y-axees',
+	'srf-hc-paramdesc-xtitle' => 'The title oan the x-axees',
+	'srf-hc-paramdesc-title' => 'The title o the chairt',
+	'srf-hc-paramdesc-subtitle' => 'The subtitle o the chairt',
+	'srf-hc-paramdesc-minwidth' => 'The smaaest width o the chairt in px',
+	'srf-hc-paramdesc-height' => 'The heicht o the chairt in px',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'The nummer o bins tae shaw',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'The range o values tae place wiin bins',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "The rotation o the x axees labels. i.e '-90'",
 );
 
 /** Swedish (svenska)
