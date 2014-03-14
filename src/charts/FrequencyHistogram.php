@@ -81,6 +81,7 @@ class FrequencyHistogram extends Chart {
 	}
 
 	protected function getChartJSON() {
+		global $shcConfig;
 		$title = $this->params['title'];
 		$subtitle = $this->params['subtitle'];
 		$ytitle = $this->params['ytitle'];
@@ -90,7 +91,6 @@ class FrequencyHistogram extends Chart {
 		$xAxisLabelsRotation = $this->params['xlrotation'];
 
 		$frequencyTable = $this->getFrequencyDistributionTable();
-		$count = count($frequencyTable);
 
 		$total = array_sum($frequencyTable);
 
@@ -167,9 +167,16 @@ class FrequencyHistogram extends Chart {
 		$mean = round($mean,2);
 
 		$sortedFrequencyTableValues = array_keys($frequencyTable);
-		$p10 = $this->getPercentile(0.1,$sortedFrequencyTableValues);
-		$p50 = $this->getPercentile(0.5,$sortedFrequencyTableValues);
-		$p90 = $this->getPercentile(0.9,$sortedFrequencyTableValues);
+
+		if($shcConfig[PERCENTILE_DEFINITION] === PERCENTILE_DEFINITION_PETROLEUM_INDUSTRY){
+			$p10 = $this->getPercentile(0.9,$sortedFrequencyTableValues);
+			$p50 = $this->getPercentile(0.5,$sortedFrequencyTableValues);
+			$p90 = $this->getPercentile(0.1,$sortedFrequencyTableValues);
+		}else{
+			$p10 = $this->getPercentile(0.1,$sortedFrequencyTableValues);
+			$p50 = $this->getPercentile(0.5,$sortedFrequencyTableValues);
+			$p90 = $this->getPercentile(0.9,$sortedFrequencyTableValues);
+		}
 
 		$json = <<<EOT
 {
