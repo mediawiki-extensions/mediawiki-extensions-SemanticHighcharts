@@ -67,3 +67,6 @@ $wgExtensionFunctions[] = function() {
 			}
 	}
 };
+
+
+require_once(__DIR__ . '/SemanticHighcharts.settings.php');
