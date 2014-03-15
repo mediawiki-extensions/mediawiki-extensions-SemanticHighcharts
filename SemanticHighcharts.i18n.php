@@ -58,6 +58,26 @@ $messages['ar'] = array(
 	'srf-hc-paramdesc-title' => 'عنوان المخطّط',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'semantichighcharts-desc' => 'СМВна хаамаш гаран хиламан формат «highcharts» гӀоьнца',
+	'srf-hc-license-warning' => 'ХӀокху гаран формато тӀедожо лицинзин леррина терго яр. Дехар до, йовзийта https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'ХӀара ю СМВна «highcharts» хилам гучубоккху формат, лахахь хьона го тӀекхочу форматаш а цера параметраш а.',
+	'srf-hc-formatdesc-highcharts' => 'Гойту форматийн а параметрийн а могӀам.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Кхуллу кест-кестан гистограмма, цхьа параметр СМВ тӀелоцуш.',
+	'srf-hc-paramdesc-ytitle' => 'y оси тӀера цӀе',
+	'srf-hc-paramdesc-xtitle' => 'x оси тӀера цӀе',
+	'srf-hc-paramdesc-title' => 'Диаграмман корта',
+	'srf-hc-paramdesc-subtitle' => 'Диаграмман бухара корта',
+	'srf-hc-paramdesc-minwidth' => 'Диаграмман минимальни шоралла пикселшкахь',
+	'srf-hc-paramdesc-height' => 'Диаграмман локхалла пикселшкахь',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Гайтаран позицийн дукхалла',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Позицина маьӀнийн диапозон',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Осин дӀаяздарийн дӀадерзор x. Масала, «-90»',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  */
@@ -76,6 +96,29 @@ $messages['de'] = array(
 	'srf-hc-paramdesc-frequency-histogram-bins' => 'Die Anzahl der anzuzeigenden Säulen',
 	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Der mit einer Säule anzuzeigende Wertebereich',
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Der für die Ausrichtung der Bezeichnungen der X-Achse zu nutzende Rotationswert (bspw. „-90“)',
+);
+
+/** British English (British English)
+ * @author Shirayuki
+ */
+$messages['en-gb'] = array(
+	'srf-hc-license-warning' => 'This output format requires additional attention in regards to licencing. Please refer to https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+);
+
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'srf-hc-formatdesc-highcharts' => 'Muestra una lista de formatos y parámetros.',
+	'srf-hc-paramdesc-ytitle' => 'El título del eje y',
+	'srf-hc-paramdesc-xtitle' => 'El título del eje x',
+	'srf-hc-paramdesc-title' => 'El título del gráfico',
+	'srf-hc-paramdesc-subtitle' => 'El subtítulo del gráfico',
+	'srf-hc-paramdesc-minwidth' => 'La anchura mínima del gráfico en píxeles',
+	'srf-hc-paramdesc-height' => 'La altura del gráfico en píxeles',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'La cantidad de conjuntos que mostrar',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'El intervalo de valores que colocar en conjuntos',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'La rotación de las etiquetas del eje x. P. ej., «-90»',
 );
 
 /** Persian (فارسی)
@@ -160,6 +203,19 @@ $messages['mr'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "'क्ष' अक्षावरील लेबल '-90' ने फिरविणे.",
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'srf-hc-paramdesc-ytitle' => 'Lo títol de l’axe Y',
+	'srf-hc-paramdesc-xtitle' => 'Lo títol de l’axe X',
+	'srf-hc-paramdesc-title' => 'Lo títol del grafic',
+	'srf-hc-paramdesc-subtitle' => 'Lo sostítol del grafic',
+	'srf-hc-paramdesc-minwidth' => 'La largor minimala del grafic en px',
+	'srf-hc-paramdesc-height' => 'La nautor del grafic en px',
+	'srf-hc-paramdesc-frequency-histogram-bins' => "Lo nombre de barras d'afichar",
+);
+
 /** Polish (polski)
  * @author Chrumps
  */
@@ -182,6 +238,9 @@ $messages['pl'] = array(
  * @author Okras
  */
 $messages['ru'] = array(
+	'semantichighcharts-desc' => 'Результирующий формат отображения данных для СМВ с помощью библиотеки «highcharts»',
+	'srf-hc-license-warning' => 'Этот формат вывода требует дополнительного внимания относительно лицензирования. Пожалуйста, изучите https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'Это формат вывода результатов «highcharts» для СМВ, ниже вы найдете список всех доступных форматов и их параметры.',
 	'srf-hc-formatdesc-highcharts' => 'Показывает список форматов и параметров.',
 	'srf-hc-formatdesc-hc:frequency-histogram' => 'Создаёт частотную гистограмму, принимая один параметр СМВ.',
 	'srf-hc-paramdesc-ytitle' => 'Название по оси y',
@@ -190,6 +249,8 @@ $messages['ru'] = array(
 	'srf-hc-paramdesc-subtitle' => 'Подзаголовок диаграммы',
 	'srf-hc-paramdesc-minwidth' => 'Минимальная ширина диаграммы в пикселях',
 	'srf-hc-paramdesc-height' => 'Высота диаграммы в пикселях',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Количество позиций для показа',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Диапазон значений для позиций',
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Поворот подписей оси x. Например, «-90»',
 );
 
@@ -213,6 +274,17 @@ $messages['sco'] = array(
 	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "The rotation o the x axees labels. i.e '-90'",
 );
 
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
+ * @author Milicevic01
+ */
+$messages['sr-ec'] = array(
+	'srf-hc-paramdesc-ytitle' => 'Наслов на y оси',
+	'srf-hc-paramdesc-xtitle' => 'Наслов на x оси',
+	'srf-hc-paramdesc-title' => 'Наслов табеле',
+	'srf-hc-paramdesc-subtitle' => 'Поднаслов табеле',
+	'srf-hc-paramdesc-minwidth' => 'Најмања ширина табеле у пикселима',
+);
+
 /** Swedish (svenska)
  * @author Lokal Profil
  */
@@ -225,6 +297,26 @@ $messages['sv'] = array(
 	'srf-hc-paramdesc-height' => 'Minsta höjd på diagrammet i pixlar (px)',
 );
 
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'semantichighcharts-desc' => 'Результуючий формат відображення даних для SMW з допомогою бібліотеки «highcharts»',
+	'srf-hc-license-warning' => 'Цей формат виводу вимагає додаткової уваги щодо ліцензування. Будь ласка, вивчіть https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'Це формат виведення результатів «highcharts» для SMW, нижче ви знайдете список всіх доступних форматів і їх параметри.',
+	'srf-hc-formatdesc-highcharts' => 'Показує список форматів файлів і параметрів.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Створює частотну гістограму, приймаючи один параметр SMW.',
+	'srf-hc-paramdesc-ytitle' => 'Назва на осі y',
+	'srf-hc-paramdesc-xtitle' => 'Назва на осі x',
+	'srf-hc-paramdesc-title' => 'Назва діаграми',
+	'srf-hc-paramdesc-subtitle' => 'Підзаголовок діаграми',
+	'srf-hc-paramdesc-minwidth' => 'Мінімальна ширина діаграми у пікселях',
+	'srf-hc-paramdesc-height' => 'Висоти діаграми у пікселях',
+	'srf-hc-paramdesc-frequency-histogram-bins' => 'Число позицій для показу',
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'Діапазон значень для позицій',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => 'Поворот підписів осі x. Наприклад, «-90»',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Liuxinyu970226
  */
@@ -234,4 +326,13 @@ $messages['zh-hans'] = array(
 	'srf-hc-paramdesc-xtitle' => 'x轴标题',
 	'srf-hc-paramdesc-title' => '图表标题',
 	'srf-hc-paramdesc-subtitle' => '图表子标题',
+	'srf-hc-paramdesc-minwidth' => '图表最小宽度像素值',
+	'srf-hc-paramdesc-height' => '图表高度像素值',
+);
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Liuxinyu970226
+ */
+$messages['zh-hant'] = array(
+	'srf-hc-paramdesc-minwidth' => '圖表最小寬度像素位元',
 );
