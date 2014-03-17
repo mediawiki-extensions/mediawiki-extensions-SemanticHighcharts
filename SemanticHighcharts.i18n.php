@@ -166,8 +166,14 @@ $messages['fr'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
+	'srf-hc-formatdesc-highcharts' => 'Weist eng Lëscht vu Formater a Parameter.',
 	'srf-hc-paramdesc-ytitle' => 'Den Titel vun der Y-Achs',
+	'srf-hc-paramdesc-xtitle' => 'Den Titel vun der X-Achs',
 	'srf-hc-paramdesc-title' => 'Den Titel vun der Grafik',
+	'srf-hc-paramdesc-subtitle' => 'Den Ënnertitel vun der Grafik',
+	'srf-hc-paramdesc-minwidth' => "D'Mindestbreet vun der GRafik a Pixel (px)",
+	'srf-hc-paramdesc-height' => "D'Héicht vun der Grafik a Pixel (px)",
+	'srf-hc-paramdesc-frequency-histogram-bins' => "D'Zuel vun de Sailen déi gewise solle ginn",
 );
 
 /** Macedonian (македонски)
@@ -207,6 +213,11 @@ $messages['mr'] = array(
  * @author Cedric31
  */
 $messages['oc'] = array(
+	'semantichighcharts-desc' => "Un format de resultat SMW qu'aficha las donadas amb l’ajuda de la bibliotèca highcharts",
+	'srf-hc-license-warning' => 'Lo format de sortida necessita una atencion màger quant a la licéncia. Reportatz-vos a https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
+	'srf-hc-format-highcharts-table-caption' => 'Aquí lo format de resultat « highcharts » de SMW, çaijós una lista de totes los formats disponibles e de lors paramètres.',
+	'srf-hc-formatdesc-highcharts' => 'Aficha una lista de formats e de paramètres.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => "Crèa un grafic d’istograma de frequéncia, qu'accèpta un paramètre SMW unic.",
 	'srf-hc-paramdesc-ytitle' => 'Lo títol de l’axe Y',
 	'srf-hc-paramdesc-xtitle' => 'Lo títol de l’axe X',
 	'srf-hc-paramdesc-title' => 'Lo títol del grafic',
@@ -214,6 +225,8 @@ $messages['oc'] = array(
 	'srf-hc-paramdesc-minwidth' => 'La largor minimala del grafic en px',
 	'srf-hc-paramdesc-height' => 'La nautor del grafic en px',
 	'srf-hc-paramdesc-frequency-histogram-bins' => "Lo nombre de barras d'afichar",
+	'srf-hc-paramdesc-frequency-histogram-binrange' => 'La plaja de valors de metre dins las barras',
+	'srf-hc-paramdesc-frequency-histogram-xlrotation' => "La rotacion dels libellats de l’axe X, per ex. '-90'",
 );
 
 /** Polish (polski)
@@ -258,9 +271,9 @@ $messages['ru'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'semantichighcharts-desc' => 'Aen SMW affcome format displeyin data wi the heelp o the heichairts librie',
+	'semantichighcharts-desc' => 'Aen SMW ootcome format displeyin data wi the heelp o the heichairts librie',
 	'srf-hc-license-warning' => 'This ootpit format needs mair attention wi regards til licensin. Please refer til https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
-	'srf-hc-format-highcharts-table-caption' => 'This is the "heichairts" affcome format fer SMW, ablo ye\'ll fynd ae leet o aw available formats n thair boonds.',
+	'srf-hc-format-highcharts-table-caption' => 'This is the "heichairts" ootcome format fer SMW, ablo ye\'ll fynd ae leet o aw available formats n thair boonds.',
 	'srf-hc-formatdesc-highcharts' => 'Shaws ae leet o formats n boonds.',
 	'srf-hc-formatdesc-hc:frequency-histogram' => 'Cræfts ae freequencie histogram chairt, acceptin ae single SMW boond.',
 	'srf-hc-paramdesc-ytitle' => 'The title oan the y-axees',
@@ -286,9 +299,11 @@ $messages['sr-ec'] = array(
 );
 
 /** Swedish (svenska)
+ * @author Jopparn
  * @author Lokal Profil
  */
 $messages['sv'] = array(
+	'srf-hc-formatdesc-highcharts' => 'Visar en lista över format och parametrar.',
 	'srf-hc-paramdesc-ytitle' => 'Titeln på y-axeln',
 	'srf-hc-paramdesc-xtitle' => 'Titeln på x-axeln',
 	'srf-hc-paramdesc-title' => 'Titeln på diagrammet',
