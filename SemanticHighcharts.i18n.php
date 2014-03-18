@@ -309,7 +309,7 @@ $messages['sv'] = array(
 	'srf-hc-paramdesc-title' => 'Titeln på diagrammet',
 	'srf-hc-paramdesc-subtitle' => 'Undertiteln på diagrammet',
 	'srf-hc-paramdesc-minwidth' => 'Minsta bredd på diagrammet i pixlar (px)',
-	'srf-hc-paramdesc-height' => 'Minsta höjd på diagrammet i pixlar (px)',
+	'srf-hc-paramdesc-height' => 'Höjden på diagrammet i pixlar (px)',
 );
 
 /** Ukrainian (українська)
