@@ -110,6 +110,7 @@ $messages['en-gb'] = array(
  */
 $messages['es'] = array(
 	'srf-hc-formatdesc-highcharts' => 'Muestra una lista de formatos y parámetros.',
+	'srf-hc-formatdesc-hc:frequency-histogram' => 'Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.',
 	'srf-hc-paramdesc-ytitle' => 'El título del eje y',
 	'srf-hc-paramdesc-xtitle' => 'El título del eje x',
 	'srf-hc-paramdesc-title' => 'El título del gráfico',
