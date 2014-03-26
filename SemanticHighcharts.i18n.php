@@ -344,6 +344,7 @@ $messages['zh-hans'] = array(
 	'srf-hc-paramdesc-subtitle' => '图表子标题',
 	'srf-hc-paramdesc-minwidth' => '图表最小宽度像素值',
 	'srf-hc-paramdesc-height' => '图表高度像素值',
+	'srf-hc-paramdesc-frequency-histogram-bins' => '要显示的二进制数',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
