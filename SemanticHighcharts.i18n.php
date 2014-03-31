@@ -338,6 +338,7 @@ $messages['uk'] = array(
  */
 $messages['zh-hans'] = array(
 	'semantichighcharts-desc' => '显示带highcharts博物馆帮助数据的SMW结果格式',
+	'srf-hc-license-warning' => '此输出格式需要额外注意授权问题。请参阅https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License',
 	'srf-hc-paramdesc-ytitle' => 'y轴标题',
 	'srf-hc-paramdesc-xtitle' => 'x轴标题',
 	'srf-hc-paramdesc-title' => '图表标题',
@@ -351,5 +352,9 @@ $messages['zh-hans'] = array(
  * @author Liuxinyu970226
  */
 $messages['zh-hant'] = array(
+	'srf-hc-paramdesc-ytitle' => '於y軸之標題',
+	'srf-hc-paramdesc-xtitle' => '於x軸之標題',
+	'srf-hc-paramdesc-title' => '圖表標題',
+	'srf-hc-paramdesc-subtitle' => '圖表子標題',
 	'srf-hc-paramdesc-minwidth' => '圖表最小寬度像素位元',
 );
