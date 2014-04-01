@@ -1,0 +1,21 @@
+{
+    "@metadata": {
+        "authors": [
+            "Andriykopanytsia"
+        ]
+    },
+    "semantichighcharts-desc": "Результуючий формат відображення даних для SMW з допомогою бібліотеки «highcharts»",
+    "srf-hc-license-warning": "Цей формат виводу вимагає додаткової уваги щодо ліцензування. Будь ласка, вивчіть https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+    "srf-hc-format-highcharts-table-caption": "Це формат виведення результатів «highcharts» для SMW, нижче ви знайдете список всіх доступних форматів і їх параметри.",
+    "srf-hc-formatdesc-highcharts": "Показує список форматів файлів і параметрів.",
+    "srf-hc-formatdesc-hc:frequency-histogram": "Створює частотну гістограму, приймаючи один параметр SMW.",
+    "srf-hc-paramdesc-ytitle": "Назва на осі y",
+    "srf-hc-paramdesc-xtitle": "Назва на осі x",
+    "srf-hc-paramdesc-title": "Назва діаграми",
+    "srf-hc-paramdesc-subtitle": "Підзаголовок діаграми",
+    "srf-hc-paramdesc-minwidth": "Мінімальна ширина діаграми у пікселях",
+    "srf-hc-paramdesc-height": "Висоти діаграми у пікселях",
+    "srf-hc-paramdesc-frequency-histogram-bins": "Число позицій для показу",
+    "srf-hc-paramdesc-frequency-histogram-binrange": "Діапазон значень для позицій",
+    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Поворот підписів осі x. Наприклад, «-90»"
+}

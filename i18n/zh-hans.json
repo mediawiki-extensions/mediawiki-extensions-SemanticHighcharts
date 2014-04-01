@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Liuxinyu970226"
+        ]
+    },
+    "semantichighcharts-desc": "显示带highcharts博物馆帮助数据的SMW结果格式",
+    "srf-hc-license-warning": "此输出格式需要额外注意授权问题。请参阅https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+    "srf-hc-paramdesc-ytitle": "y轴标题",
+    "srf-hc-paramdesc-xtitle": "x轴标题",
+    "srf-hc-paramdesc-title": "图表标题",
+    "srf-hc-paramdesc-subtitle": "图表子标题",
+    "srf-hc-paramdesc-minwidth": "图表最小宽度像素值",
+    "srf-hc-paramdesc-height": "图表高度像素值",
+    "srf-hc-paramdesc-frequency-histogram-bins": "要显示的二进制数"
+}

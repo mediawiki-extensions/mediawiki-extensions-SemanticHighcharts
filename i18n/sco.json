@@ -1,0 +1,21 @@
+{
+    "@metadata": {
+        "authors": [
+            "John Reid"
+        ]
+    },
+    "semantichighcharts-desc": "Aen SMW ootcome format displeyin data wi the heelp o the heichairts librie",
+    "srf-hc-license-warning": "This ootpit format needs mair attention wi regards til licensin. Please refer til https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+    "srf-hc-format-highcharts-table-caption": "This is the \"heichairts\" ootcome format fer SMW, ablo ye'll fynd ae leet o aw available formats n thair boonds.",
+    "srf-hc-formatdesc-highcharts": "Shaws ae leet o formats n boonds.",
+    "srf-hc-formatdesc-hc:frequency-histogram": "Cræfts ae freequencie histogram chairt, acceptin ae single SMW boond.",
+    "srf-hc-paramdesc-ytitle": "The title oan the y-axees",
+    "srf-hc-paramdesc-xtitle": "The title oan the x-axees",
+    "srf-hc-paramdesc-title": "The title o the chairt",
+    "srf-hc-paramdesc-subtitle": "The subtitle o the chairt",
+    "srf-hc-paramdesc-minwidth": "The smaaest width o the chairt in px",
+    "srf-hc-paramdesc-height": "The heicht o the chairt in px",
+    "srf-hc-paramdesc-frequency-histogram-bins": "The nummer o bins tae shaw",
+    "srf-hc-paramdesc-frequency-histogram-binrange": "The range o values tae place wiin bins",
+    "srf-hc-paramdesc-frequency-histogram-xlrotation": "The rotation o the x axees labels. i.e '-90'"
+}

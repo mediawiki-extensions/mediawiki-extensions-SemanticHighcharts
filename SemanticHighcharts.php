@@ -1,6 +1,6 @@
 <?php
 
-global $wgExtensionFunctions, $wgExtensionMessagesFiles, $wgExtensionCredits, $wgResourceModules, $shcAgreedToHCLicense;
+global $wgExtensionFunctions, $wgExtensionMessagesFiles, $wgMessagesDirs, $wgExtensionCredits, $wgResourceModules, $shcAgreedToHCLicense;
 
 if (!defined('MEDIAWIKI')) {
 	die('Not an entry point.');
@@ -22,13 +22,14 @@ if ( is_readable( __DIR__ . '/vendor/autoload.php' ) ) {
 $wgExtensionCredits['semantic'][] = array(
 	'path' => __FILE__,
 	'name' => 'SemanticHighcharts',
-	'version' => '0.0.1',
+	'version' => '0.1.0',
 	'author' => 'Kim Eik',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SemanticHighcharts',
 	'descriptionmsg' => 'semantichighcharts-desc'
 );
 
 //i18n
+$wgMessagesDirs['SemanticHighcharts'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['SemanticHighcharts'] = dirname(__FILE__) . '/SemanticHighcharts.i18n.php';
 
 $basePath = '';
