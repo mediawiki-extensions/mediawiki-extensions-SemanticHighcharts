@@ -6,6 +6,8 @@
     },
     "semantichighcharts-desc": "显示带highcharts博物馆帮助数据的SMW结果格式",
     "srf-hc-license-warning": "此输出格式需要额外注意授权问题。请参阅https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+    "srf-hc-format-highcharts-table-caption": "这是用于SMW的“highcharts”结果格式，下面您将发现所有可用格式和他们的参数列表。",
+    "srf-hc-formatdesc-highcharts": "显示格式和参数列表。",
     "srf-hc-paramdesc-ytitle": "y轴标题",
     "srf-hc-paramdesc-xtitle": "x轴标题",
     "srf-hc-paramdesc-title": "图表标题",
