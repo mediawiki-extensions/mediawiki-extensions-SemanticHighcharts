@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gomoko"
-        ]
-    },
-    "semantichighcharts-desc": "Un format de résultat SMW affichant les données avec l’aide de la bibliothèque highcharts",
-    "srf-hc-license-warning": "Le format de sortie nécessite une attention accrue au vu de la licence. Veuillez vous reporter à https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
-    "srf-hc-format-highcharts-table-caption": "Voici le format de résultat « highcharts » de SMW, ci-dessous une liste de tous les formats disponibles et de leurs paramètres.",
-    "srf-hc-formatdesc-highcharts": "Affiche une liste de formats et de paramètres.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Crée un graphique d’histogramme de fréquence, acceptant un unique paramètre SMW.",
-    "srf-hc-paramdesc-ytitle": "Le titre de l’axe Y",
-    "srf-hc-paramdesc-xtitle": "Le titre de l’axe X",
-    "srf-hc-paramdesc-title": "Le titre du graphique",
-    "srf-hc-paramdesc-subtitle": "Le sous-titre du graphique",
-    "srf-hc-paramdesc-minwidth": "La largeur minimale du graphique en px",
-    "srf-hc-paramdesc-height": "La hauteur du graphique en px",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Le nombre de barres à afficher",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "La plage de valeurs à mettre dans les barres",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotation des libellés de l’axe X, par ex. '-90'"
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"semantichighcharts-desc": "Un format de résultat SMW affichant les données avec l’aide de la bibliothèque highcharts",
+	"srf-hc-license-warning": "Le format de sortie nécessite une attention accrue au vu de la licence. Veuillez vous reporter à https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "Voici le format de résultat « highcharts » de SMW, ci-dessous une liste de tous les formats disponibles et de leurs paramètres.",
+	"srf-hc-formatdesc-highcharts": "Affiche une liste de formats et de paramètres.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Crée un graphique d’histogramme de fréquence, acceptant un unique paramètre SMW.",
+	"srf-hc-paramdesc-ytitle": "Le titre de l’axe Y",
+	"srf-hc-paramdesc-xtitle": "Le titre de l’axe X",
+	"srf-hc-paramdesc-title": "Le titre du graphique",
+	"srf-hc-paramdesc-subtitle": "Le sous-titre du graphique",
+	"srf-hc-paramdesc-minwidth": "La largeur minimale du graphique en px",
+	"srf-hc-paramdesc-height": "La hauteur du graphique en px",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Le nombre de barres à afficher",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "La plage de valeurs à mettre dans les barres",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotation des libellés de l’axe X, par ex. '-90'"
 }

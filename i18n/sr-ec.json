@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Milicevic01"
-        ]
-    },
-    "srf-hc-paramdesc-ytitle": "Наслов на y оси",
-    "srf-hc-paramdesc-xtitle": "Наслов на x оси",
-    "srf-hc-paramdesc-title": "Наслов табеле",
-    "srf-hc-paramdesc-subtitle": "Поднаслов табеле",
-    "srf-hc-paramdesc-minwidth": "Најмања ширина табеле у пикселима"
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"srf-hc-paramdesc-ytitle": "Наслов на y оси",
+	"srf-hc-paramdesc-xtitle": "Наслов на x оси",
+	"srf-hc-paramdesc-title": "Наслов табеле",
+	"srf-hc-paramdesc-subtitle": "Поднаслов табеле",
+	"srf-hc-paramdesc-minwidth": "Најмања ширина табеле у пикселима"
 }

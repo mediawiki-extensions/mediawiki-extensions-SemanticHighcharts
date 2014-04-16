@@ -1,15 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "Robby"
-        ]
-    },
-    "srf-hc-formatdesc-highcharts": "Weist eng Lëscht vu Formater a Parameter.",
-    "srf-hc-paramdesc-ytitle": "Den Titel vun der Y-Achs",
-    "srf-hc-paramdesc-xtitle": "Den Titel vun der X-Achs",
-    "srf-hc-paramdesc-title": "Den Titel vun der Grafik",
-    "srf-hc-paramdesc-subtitle": "Den Ënnertitel vun der Grafik",
-    "srf-hc-paramdesc-minwidth": "D'Mindestbreet vun der GRafik a Pixel (px)",
-    "srf-hc-paramdesc-height": "D'Héicht vun der Grafik a Pixel (px)",
-    "srf-hc-paramdesc-frequency-histogram-bins": "D'Zuel vun de Sailen déi gewise solle ginn"
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"srf-hc-formatdesc-highcharts": "Weist eng Lëscht vu Formater a Parameter.",
+	"srf-hc-paramdesc-ytitle": "Den Titel vun der Y-Achs",
+	"srf-hc-paramdesc-xtitle": "Den Titel vun der X-Achs",
+	"srf-hc-paramdesc-title": "Den Titel vun der Grafik",
+	"srf-hc-paramdesc-subtitle": "Den Ënnertitel vun der Grafik",
+	"srf-hc-paramdesc-minwidth": "D'Mindestbreet vun der GRafik a Pixel (px)",
+	"srf-hc-paramdesc-height": "D'Héicht vun der Grafik a Pixel (px)",
+	"srf-hc-paramdesc-frequency-histogram-bins": "D'Zuel vun de Sailen déi gewise solle ginn"
 }

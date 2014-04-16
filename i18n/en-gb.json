@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "srf-hc-license-warning": "This output format requires additional attention in regards to licencing. Please refer to https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"srf-hc-license-warning": "This output format requires additional attention in regards to licencing. Please refer to https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License"
 }

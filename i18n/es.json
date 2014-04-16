@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fitoschido"
-        ]
-    },
-    "srf-hc-formatdesc-highcharts": "Muestra una lista de formatos y parámetros.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.",
-    "srf-hc-paramdesc-ytitle": "El título del eje y",
-    "srf-hc-paramdesc-xtitle": "El título del eje x",
-    "srf-hc-paramdesc-title": "El título del gráfico",
-    "srf-hc-paramdesc-subtitle": "El subtítulo del gráfico",
-    "srf-hc-paramdesc-minwidth": "La anchura mínima del gráfico en píxeles",
-    "srf-hc-paramdesc-height": "La altura del gráfico en píxeles",
-    "srf-hc-paramdesc-frequency-histogram-bins": "La cantidad de conjuntos que mostrar",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "El intervalo de valores que colocar en conjuntos",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotación de las etiquetas del eje x. P. ej., «-90»"
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"srf-hc-formatdesc-highcharts": "Muestra una lista de formatos y parámetros.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.",
+	"srf-hc-paramdesc-ytitle": "El título del eje y",
+	"srf-hc-paramdesc-xtitle": "El título del eje x",
+	"srf-hc-paramdesc-title": "El título del gráfico",
+	"srf-hc-paramdesc-subtitle": "El subtítulo del gráfico",
+	"srf-hc-paramdesc-minwidth": "La anchura mínima del gráfico en píxeles",
+	"srf-hc-paramdesc-height": "La altura del gráfico en píxeles",
+	"srf-hc-paramdesc-frequency-histogram-bins": "La cantidad de conjuntos que mostrar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "El intervalo de valores que colocar en conjuntos",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotación de las etiquetas del eje x. P. ej., «-90»"
 }

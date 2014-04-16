@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kghbln"
-        ]
-    },
-    "semantichighcharts-desc": "Ermöglicht ein auf die Softwarebibliothek „Highcharts“ gestütztes Ergebnisformat",
-    "srf-hc-license-warning": "Dieses Ergebnisformat erfordert vor dessen Nutzung Aufmerksamkeit hinsichtlich der Lizenz. Siehe hierzu die [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License Informationen zur Lizenz].",
-    "srf-hc-format-highcharts-table-caption": "Dies ist das Ergebnisformat „highcharts“. Unterhalb befindet sich eine Liste der verfügbaren Formatvarianten mitsamt deren Parametern.",
-    "srf-hc-formatdesc-highcharts": "Zeigt eine Liste der Formatvarianten mitsamt deren Parametern an.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Erzeugt die Grafik eines auf einen einzelnen Parameter gestützten Häufigkeitshistogramms.",
-    "srf-hc-paramdesc-ytitle": "Der Titel der Y-Achse",
-    "srf-hc-paramdesc-xtitle": "Der Titel der X-Achse",
-    "srf-hc-paramdesc-title": "Der Titel der Grafik",
-    "srf-hc-paramdesc-subtitle": "Der Untertitel der Grafik",
-    "srf-hc-paramdesc-minwidth": "Die Mindestbreite der Grafik in Pixeln (px)",
-    "srf-hc-paramdesc-height": "Die Höhe der Grafik in Pixeln (px)",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Die Anzahl der anzuzeigenden Säulen",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "Der mit einer Säule anzuzeigende Wertebereich",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Der für die Ausrichtung der Bezeichnungen der X-Achse zu nutzende Rotationswert (bspw. „-90“)"
+	"@metadata": {
+		"authors": [
+			"Kghbln"
+		]
+	},
+	"semantichighcharts-desc": "Ermöglicht ein auf die Softwarebibliothek „Highcharts“ gestütztes Ergebnisformat",
+	"srf-hc-license-warning": "Dieses Ergebnisformat erfordert vor dessen Nutzung Aufmerksamkeit hinsichtlich der Lizenz. Siehe hierzu die [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License Informationen zur Lizenz].",
+	"srf-hc-format-highcharts-table-caption": "Dies ist das Ergebnisformat „highcharts“. Unterhalb befindet sich eine Liste der verfügbaren Formatvarianten mitsamt deren Parametern.",
+	"srf-hc-formatdesc-highcharts": "Zeigt eine Liste der Formatvarianten mitsamt deren Parametern an.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Erzeugt die Grafik eines auf einen einzelnen Parameter gestützten Häufigkeitshistogramms.",
+	"srf-hc-paramdesc-ytitle": "Der Titel der Y-Achse",
+	"srf-hc-paramdesc-xtitle": "Der Titel der X-Achse",
+	"srf-hc-paramdesc-title": "Der Titel der Grafik",
+	"srf-hc-paramdesc-subtitle": "Der Untertitel der Grafik",
+	"srf-hc-paramdesc-minwidth": "Die Mindestbreite der Grafik in Pixeln (px)",
+	"srf-hc-paramdesc-height": "Die Höhe der Grafik in Pixeln (px)",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Die Anzahl der anzuzeigenden Säulen",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Der mit einer Säule anzuzeigende Wertebereich",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Der für die Ausrichtung der Bezeichnungen der X-Achse zu nutzende Rotationswert (bspw. „-90“)"
 }

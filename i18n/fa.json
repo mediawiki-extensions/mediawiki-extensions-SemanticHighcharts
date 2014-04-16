@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Reza1615"
-        ]
-    },
-    "semantichighcharts-desc": "SMW  اطلاعات را با کمک کتابخانه های‌چارت نمایش می دهد",
-    "srf-hc-license-warning": "بر پایهٔ مجوزدهی ساختار خروجی نیازمند توجه بیشتری است. لطفاُ به  https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License\nارجاع دهید.",
-    "srf-hc-format-highcharts-table-caption": "این نتیجه های‌چارت برای SMW است، در زیر فهرست تمام فرمت های موجود و متغییرهاییشان  را می توانید بیابید.",
-    "srf-hc-formatdesc-highcharts": "نمایش فهرستی از فرمت‌ها و متغییرها",
-    "srf-hc-formatdesc-hc:frequency-histogram": "ساخت نمودار هیستوگرام تناوبی با پذیرفتن یک متغییر SMW",
-    "srf-hc-paramdesc-ytitle": "عنوان محور y",
-    "srf-hc-paramdesc-xtitle": "عنوان محور x",
-    "srf-hc-paramdesc-title": "عنوان نمودار",
-    "srf-hc-paramdesc-subtitle": "زیر عنوان نمودار",
-    "srf-hc-paramdesc-minwidth": "حداقل عرض نمودار",
-    "srf-hc-paramdesc-height": "ارتفاع نمودار بر حسب پیکسل",
-    "srf-hc-paramdesc-frequency-histogram-bins": "تعداد دانه‌هایی که باید نمایش داده‌شوند",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "گسترهٔ داده‌های مکان‌ّا که با دانه‌ها باید نمایش داده‌شوند",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "چرخش برچسب محور xها مثلاً  '-90'"
+	"@metadata": {
+		"authors": [
+			"Reza1615"
+		]
+	},
+	"semantichighcharts-desc": "SMW  اطلاعات را با کمک کتابخانه های‌چارت نمایش می دهد",
+	"srf-hc-license-warning": "بر پایهٔ مجوزدهی ساختار خروجی نیازمند توجه بیشتری است. لطفاُ به  https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License\nارجاع دهید.",
+	"srf-hc-format-highcharts-table-caption": "این نتیجه های‌چارت برای SMW است، در زیر فهرست تمام فرمت های موجود و متغییرهاییشان  را می توانید بیابید.",
+	"srf-hc-formatdesc-highcharts": "نمایش فهرستی از فرمت‌ها و متغییرها",
+	"srf-hc-formatdesc-hc:frequency-histogram": "ساخت نمودار هیستوگرام تناوبی با پذیرفتن یک متغییر SMW",
+	"srf-hc-paramdesc-ytitle": "عنوان محور y",
+	"srf-hc-paramdesc-xtitle": "عنوان محور x",
+	"srf-hc-paramdesc-title": "عنوان نمودار",
+	"srf-hc-paramdesc-subtitle": "زیر عنوان نمودار",
+	"srf-hc-paramdesc-minwidth": "حداقل عرض نمودار",
+	"srf-hc-paramdesc-height": "ارتفاع نمودار بر حسب پیکسل",
+	"srf-hc-paramdesc-frequency-histogram-bins": "تعداد دانه‌هایی که باید نمایش داده‌شوند",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "گسترهٔ داده‌های مکان‌ّا که با دانه‌ها باید نمایش داده‌شوند",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "چرخش برچسب محور xها مثلاً  '-90'"
 }

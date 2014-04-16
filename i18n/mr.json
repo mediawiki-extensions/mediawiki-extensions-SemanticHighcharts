@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "V.narsikar"
-        ]
-    },
-    "srf-hc-paramdesc-ytitle": "'य' अक्षावरील शीर्षक",
-    "srf-hc-paramdesc-xtitle": "'क्ष' अक्षावरील शीर्षक",
-    "srf-hc-paramdesc-title": "तक्त्याचे शीर्षक",
-    "srf-hc-paramdesc-subtitle": "तक्त्याचे उपशीर्षक",
-    "srf-hc-paramdesc-minwidth": "तक्त्याची कमीत कमी रुंदी पिक्सेलमध्ये",
-    "srf-hc-paramdesc-height": "तक्त्याची उंची पिक्सेलमध्ये",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "'क्ष' अक्षावरील लेबल '-90' ने फिरविणे."
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"srf-hc-paramdesc-ytitle": "'य' अक्षावरील शीर्षक",
+	"srf-hc-paramdesc-xtitle": "'क्ष' अक्षावरील शीर्षक",
+	"srf-hc-paramdesc-title": "तक्त्याचे शीर्षक",
+	"srf-hc-paramdesc-subtitle": "तक्त्याचे उपशीर्षक",
+	"srf-hc-paramdesc-minwidth": "तक्त्याची कमीत कमी रुंदी पिक्सेलमध्ये",
+	"srf-hc-paramdesc-height": "तक्त्याची उंची पिक्सेलमध्ये",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "'क्ष' अक्षावरील लेबल '-90' ने फिरविणे."
 }

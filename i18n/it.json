@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"srf-hc-license-warning": "Questo formato di output richiede ulteriore attenzione per quanto riguarda le licenze. Fai riferimento a https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-formatdesc-highcharts": "Mostra un elenco di formati e parametri.",
+	"srf-hc-paramdesc-ytitle": "Il titolo sull'asse y",
+	"srf-hc-paramdesc-xtitle": "Il titolo sull'asse x",
+	"srf-hc-paramdesc-title": "Il titolo del grafico",
+	"srf-hc-paramdesc-subtitle": "Il sottotitolo del grafico",
+	"srf-hc-paramdesc-minwidth": "La larghezza minima del grafico in px",
+	"srf-hc-paramdesc-height": "L'altezza del grafico in px",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotazione delle etichette dell'asse x. Ad esempio '-90'"
+}

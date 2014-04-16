@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bjankuloski06"
-        ]
-    },
-    "semantichighcharts-desc": "Изводен формат за приказ на податоци со помош на библиотеката на „Highcharts“",
-    "srf-hc-license-warning": "На овој изводен формат треба да му се посвети посебно внимание во врска со лиценцирањето. Погледајте ја [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License лиценцната страница]",
-    "srf-hc-format-highcharts-table-caption": "Ова е изводен формат „highcharts“ за Семантички МедијаВики. Подолу ќе најдете список на сите расположиви формати и нивните параметри.",
-    "srf-hc-formatdesc-highcharts": "Прикажува список на формати и параметри.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Создава честотен хистограмски графикон кој прифаќа по еден параметар.",
-    "srf-hc-paramdesc-ytitle": "Насловот на y-оската",
-    "srf-hc-paramdesc-xtitle": "Насловот на x-оската",
-    "srf-hc-paramdesc-title": "Насловот на графиконот",
-    "srf-hc-paramdesc-subtitle": "Поднасловот на графиконот",
-    "srf-hc-paramdesc-minwidth": "Минималната ширина на графиконот во пиксели (px)",
-    "srf-hc-paramdesc-height": "Висината на графиконот во пиксели (px)",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Број на столбови во приказот",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "Опсег на вредностите во столбовите",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Насоченост на натписите на x-оската (на пр. „-90“)"
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"semantichighcharts-desc": "Изводен формат за приказ на податоци со помош на библиотеката на „Highcharts“",
+	"srf-hc-license-warning": "На овој изводен формат треба да му се посвети посебно внимание во врска со лиценцирањето. Погледајте ја [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License лиценцната страница]",
+	"srf-hc-format-highcharts-table-caption": "Ова е изводен формат „highcharts“ за Семантички МедијаВики. Подолу ќе најдете список на сите расположиви формати и нивните параметри.",
+	"srf-hc-formatdesc-highcharts": "Прикажува список на формати и параметри.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Создава честотен хистограмски графикон кој прифаќа по еден параметар.",
+	"srf-hc-paramdesc-ytitle": "Насловот на y-оската",
+	"srf-hc-paramdesc-xtitle": "Насловот на x-оската",
+	"srf-hc-paramdesc-title": "Насловот на графиконот",
+	"srf-hc-paramdesc-subtitle": "Поднасловот на графиконот",
+	"srf-hc-paramdesc-minwidth": "Минималната ширина на графиконот во пиксели (px)",
+	"srf-hc-paramdesc-height": "Висината на графиконот во пиксели (px)",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Број на столбови во приказот",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Опсег на вредностите во столбовите",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Насоченост на натписите на x-оската (на пр. „-90“)"
 }

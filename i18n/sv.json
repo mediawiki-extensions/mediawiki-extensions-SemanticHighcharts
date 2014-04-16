@@ -1,15 +1,15 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jopparn",
-            "Lokal Profil"
-        ]
-    },
-    "srf-hc-formatdesc-highcharts": "Visar en lista över format och parametrar.",
-    "srf-hc-paramdesc-ytitle": "Titeln på y-axeln",
-    "srf-hc-paramdesc-xtitle": "Titeln på x-axeln",
-    "srf-hc-paramdesc-title": "Titeln på diagrammet",
-    "srf-hc-paramdesc-subtitle": "Undertiteln på diagrammet",
-    "srf-hc-paramdesc-minwidth": "Minsta bredd på diagrammet i pixlar (px)",
-    "srf-hc-paramdesc-height": "Höjden på diagrammet i pixlar (px)"
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Lokal Profil"
+		]
+	},
+	"srf-hc-formatdesc-highcharts": "Visar en lista över format och parametrar.",
+	"srf-hc-paramdesc-ytitle": "Titeln på y-axeln",
+	"srf-hc-paramdesc-xtitle": "Titeln på x-axeln",
+	"srf-hc-paramdesc-title": "Titeln på diagrammet",
+	"srf-hc-paramdesc-subtitle": "Undertiteln på diagrammet",
+	"srf-hc-paramdesc-minwidth": "Minsta bredd på diagrammet i pixlar (px)",
+	"srf-hc-paramdesc-height": "Höjden på diagrammet i pixlar (px)"
 }

@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cedric31"
-        ]
-    },
-    "semantichighcharts-desc": "Un format de resultat SMW qu'aficha las donadas amb l’ajuda de la bibliotèca highcharts",
-    "srf-hc-license-warning": "Lo format de sortida necessita una atencion màger quant a la licéncia. Reportatz-vos a https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
-    "srf-hc-format-highcharts-table-caption": "Aquí lo format de resultat « highcharts » de SMW, çaijós una lista de totes los formats disponibles e de lors paramètres.",
-    "srf-hc-formatdesc-highcharts": "Aficha una lista de formats e de paramètres.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Crèa un grafic d’istograma de frequéncia, qu'accèpta un paramètre SMW unic.",
-    "srf-hc-paramdesc-ytitle": "Lo títol de l’axe Y",
-    "srf-hc-paramdesc-xtitle": "Lo títol de l’axe X",
-    "srf-hc-paramdesc-title": "Lo títol del grafic",
-    "srf-hc-paramdesc-subtitle": "Lo sostítol del grafic",
-    "srf-hc-paramdesc-minwidth": "La largor minimala del grafic en px",
-    "srf-hc-paramdesc-height": "La nautor del grafic en px",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Lo nombre de barras d'afichar",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "La plaja de valors de metre dins las barras",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotacion dels libellats de l’axe X, per ex. '-90'"
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"semantichighcharts-desc": "Un format de resultat SMW qu'aficha las donadas amb l’ajuda de la bibliotèca highcharts",
+	"srf-hc-license-warning": "Lo format de sortida necessita una atencion màger quant a la licéncia. Reportatz-vos a https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "Aquí lo format de resultat « highcharts » de SMW, çaijós una lista de totes los formats disponibles e de lors paramètres.",
+	"srf-hc-formatdesc-highcharts": "Aficha una lista de formats e de paramètres.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Crèa un grafic d’istograma de frequéncia, qu'accèpta un paramètre SMW unic.",
+	"srf-hc-paramdesc-ytitle": "Lo títol de l’axe Y",
+	"srf-hc-paramdesc-xtitle": "Lo títol de l’axe X",
+	"srf-hc-paramdesc-title": "Lo títol del grafic",
+	"srf-hc-paramdesc-subtitle": "Lo sostítol del grafic",
+	"srf-hc-paramdesc-minwidth": "La largor minimala del grafic en px",
+	"srf-hc-paramdesc-height": "La nautor del grafic en px",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Lo nombre de barras d'afichar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "La plaja de valors de metre dins las barras",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "La rotacion dels libellats de l’axe X, per ex. '-90'"
 }

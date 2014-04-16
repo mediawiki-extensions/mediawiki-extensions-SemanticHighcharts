@@ -1,21 +1,21 @@
 {
-    "@metadata": {
-        "authors": [
-            "Умар"
-        ]
-    },
-    "semantichighcharts-desc": "СМВна хаамаш гаран хиламан формат «highcharts» гӀоьнца",
-    "srf-hc-license-warning": "ХӀокху гаран формато тӀедожо лицинзин леррина терго яр. Дехар до, йовзийта https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
-    "srf-hc-format-highcharts-table-caption": "ХӀара ю СМВна «highcharts» хилам гучубоккху формат, лахахь хьона го тӀекхочу форматаш а цера параметраш а.",
-    "srf-hc-formatdesc-highcharts": "Гойту форматийн а параметрийн а могӀам.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Кхуллу кест-кестан гистограмма, цхьа параметр СМВ тӀелоцуш.",
-    "srf-hc-paramdesc-ytitle": "y оси тӀера цӀе",
-    "srf-hc-paramdesc-xtitle": "x оси тӀера цӀе",
-    "srf-hc-paramdesc-title": "Диаграмман корта",
-    "srf-hc-paramdesc-subtitle": "Диаграмман бухара корта",
-    "srf-hc-paramdesc-minwidth": "Диаграмман минимальни шоралла пикселшкахь",
-    "srf-hc-paramdesc-height": "Диаграмман локхалла пикселшкахь",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Гайтаран позицийн дукхалла",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "Позицина маьӀнийн диапозон",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Осин дӀаяздарийн дӀадерзор x. Масала, «-90»"
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"semantichighcharts-desc": "СМВна хаамаш гаран хиламан формат «highcharts» гӀоьнца",
+	"srf-hc-license-warning": "ХӀокху гаран формато тӀедожо лицинзин леррина терго яр. Дехар до, йовзийта https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "ХӀара ю СМВна «highcharts» хилам гучубоккху формат, лахахь хьона го тӀекхочу форматаш а цера параметраш а.",
+	"srf-hc-formatdesc-highcharts": "Гойту форматийн а параметрийн а могӀам.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Кхуллу кест-кестан гистограмма, цхьа параметр СМВ тӀелоцуш.",
+	"srf-hc-paramdesc-ytitle": "y оси тӀера цӀе",
+	"srf-hc-paramdesc-xtitle": "x оси тӀера цӀе",
+	"srf-hc-paramdesc-title": "Диаграмман корта",
+	"srf-hc-paramdesc-subtitle": "Диаграмман бухара корта",
+	"srf-hc-paramdesc-minwidth": "Диаграмман минимальни шоралла пикселшкахь",
+	"srf-hc-paramdesc-height": "Диаграмман локхалла пикселшкахь",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Гайтаран позицийн дукхалла",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Позицина маьӀнийн диапозон",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Осин дӀаяздарийн дӀадерзор x. Масала, «-90»"
 }

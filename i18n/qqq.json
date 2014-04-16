@@ -1,19 +1,17 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "semantichighcharts-desc": "{{desc|name=SemanticHighcharts|url=http://www.mediawiki.org/wiki/Extension:SemanticHighcharts}}",
-    "srf-hc-license-warning": "Warning of possible license issue.",
-    "srf-hc-format-highcharts-table-caption": "Caption displayed on help table",
-    "srf-hc-formatdesc-highcharts": "Output format parameter",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Output format parameter",
-    "srf-hc-paramdesc-ytitle": "Description of parameter ytitle",
-    "srf-hc-paramdesc-xtitle": "Description of parameter xtitle",
-    "srf-hc-paramdesc-title": "Description of parameter title",
-    "srf-hc-paramdesc-subtitle": "Description of parameter subtitle",
-    "srf-hc-paramdesc-minwidth": "Description of parameter minwidth",
-    "srf-hc-paramdesc-height": "Description of parameter height",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Description of parameter bins",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "Description of parameter binrange",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Description of parameter xlrotation"
+	"@metadata": [],
+	"semantichighcharts-desc": "{{desc|name=SemanticHighcharts|url=http://www.mediawiki.org/wiki/Extension:SemanticHighcharts}}",
+	"srf-hc-license-warning": "Warning of possible license issue.",
+	"srf-hc-format-highcharts-table-caption": "Caption displayed on help table",
+	"srf-hc-formatdesc-highcharts": "Output format parameter",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Output format parameter",
+	"srf-hc-paramdesc-ytitle": "Description of parameter ytitle",
+	"srf-hc-paramdesc-xtitle": "Description of parameter xtitle",
+	"srf-hc-paramdesc-title": "Description of parameter title",
+	"srf-hc-paramdesc-subtitle": "Description of parameter subtitle",
+	"srf-hc-paramdesc-minwidth": "Description of parameter minwidth",
+	"srf-hc-paramdesc-height": "Description of parameter height",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Description of parameter bins",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Description of parameter binrange",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Description of parameter xlrotation"
 }

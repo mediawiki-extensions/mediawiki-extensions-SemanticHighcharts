@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Liuxinyu970226"
-        ]
-    },
-    "srf-hc-paramdesc-ytitle": "於y軸之標題",
-    "srf-hc-paramdesc-xtitle": "於x軸之標題",
-    "srf-hc-paramdesc-title": "圖表標題",
-    "srf-hc-paramdesc-subtitle": "圖表子標題",
-    "srf-hc-paramdesc-minwidth": "圖表最小寬度像素位元"
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"srf-hc-paramdesc-ytitle": "於y軸之標題",
+	"srf-hc-paramdesc-xtitle": "於x軸之標題",
+	"srf-hc-paramdesc-title": "圖表標題",
+	"srf-hc-paramdesc-subtitle": "圖表子標題",
+	"srf-hc-paramdesc-minwidth": "圖表最小寬度像素位元"
 }

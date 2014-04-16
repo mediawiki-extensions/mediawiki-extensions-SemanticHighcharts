@@ -1,19 +1,19 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chrumps"
-        ]
-    },
-    "srf-hc-license-warning": "Ten format wyjściowy wymaga dodatkowej uwagi w odniesieniu do licencji. Proszę odwołać się do https://www.mediawiki.org/wiki/Extension:SemanticHighcharts #License",
-    "srf-hc-formatdesc-highcharts": "Pokazuje listę formatów i parametrów.",
-    "srf-hc-formatdesc-hc:frequency-histogram": "Tworzy histogram częstotliwości, przyjmując jeden parametr SMW.",
-    "srf-hc-paramdesc-ytitle": "Tytuł na osi y",
-    "srf-hc-paramdesc-xtitle": "Tytuł na osi x",
-    "srf-hc-paramdesc-title": "Tytuł wykresu",
-    "srf-hc-paramdesc-subtitle": "Podtytuł wykresu",
-    "srf-hc-paramdesc-minwidth": "Minimalna szerokość wykresu w px",
-    "srf-hc-paramdesc-height": "Wysokość wykresu w px",
-    "srf-hc-paramdesc-frequency-histogram-bins": "Liczba przedziałów klasowych do pokazania",
-    "srf-hc-paramdesc-frequency-histogram-binrange": "Zakres wartości obejmujących przedziały klasowe",
-    "srf-hc-paramdesc-frequency-histogram-xlrotation": "Obrót etykiety osi x, np. '-90'"
+	"@metadata": {
+		"authors": [
+			"Chrumps"
+		]
+	},
+	"srf-hc-license-warning": "Ten format wyjściowy wymaga dodatkowej uwagi w odniesieniu do licencji. Proszę odwołać się do https://www.mediawiki.org/wiki/Extension:SemanticHighcharts #License",
+	"srf-hc-formatdesc-highcharts": "Pokazuje listę formatów i parametrów.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Tworzy histogram częstotliwości, przyjmując jeden parametr SMW.",
+	"srf-hc-paramdesc-ytitle": "Tytuł na osi y",
+	"srf-hc-paramdesc-xtitle": "Tytuł na osi x",
+	"srf-hc-paramdesc-title": "Tytuł wykresu",
+	"srf-hc-paramdesc-subtitle": "Podtytuł wykresu",
+	"srf-hc-paramdesc-minwidth": "Minimalna szerokość wykresu w px",
+	"srf-hc-paramdesc-height": "Wysokość wykresu w px",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Liczba przedziałów klasowych do pokazania",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Zakres wartości obejmujących przedziały klasowe",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Obrót etykiety osi x, np. '-90'"
 }
