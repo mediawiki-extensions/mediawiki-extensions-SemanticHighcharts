@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"semantichighcharts-desc": "{{desc|name=SemanticHighcharts|url=http://www.mediawiki.org/wiki/Extension:SemanticHighcharts}}",
+	"@metadata": {
+		"authors": [
+			"Umherirrender"
+		]
+	},
+	"semantichighcharts-desc": "{{desc|name=SemanticHighcharts|url=https://www.mediawiki.org/wiki/Extension:SemanticHighcharts}}",
 	"srf-hc-license-warning": "Warning of possible license issue.",
 	"srf-hc-format-highcharts-table-caption": "Caption displayed on help table",
 	"srf-hc-formatdesc-highcharts": "Output format parameter",
