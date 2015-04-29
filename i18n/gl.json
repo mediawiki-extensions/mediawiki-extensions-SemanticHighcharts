@@ -1,9 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Banjo"
+			"Banjo",
+			"Elisardojm"
 		]
 	},
+	"srf-hc-formatdesc-highcharts": "Mostra unha lista de formatos e parámetros.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.",
 	"srf-hc-paramdesc-ytitle": "O título no eixo y",
-	"srf-hc-paramdesc-xtitle": "O título no eixo x"
+	"srf-hc-paramdesc-xtitle": "O título no eixo x",
+	"srf-hc-paramdesc-title": "Título do gráfico",
+	"srf-hc-paramdesc-subtitle": "Subtítulo do gráfico",
+	"srf-hc-paramdesc-minwidth": "Anchura mínima do gráfico en píxeles",
+	"srf-hc-paramdesc-height": "Altura do gráfico en píxeles",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Cantidade de conxuntos a amosar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Intervalo de valores a colocar nos conxuntos",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Rotación das etiquetas do eixe x. P. ex., «-90»"
 }
