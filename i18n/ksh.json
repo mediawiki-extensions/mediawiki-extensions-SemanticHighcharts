@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Purodha"
+		]
+	},
+	"srf-hc-license-warning": "Heh dat Fommaht bruch en äxtra Opsamkeid wat de Lezänz aanjeihd. Bes esu johd un lohr noh de [https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License Aanjahbe övver de Lezänz]",
+	"srf-hc-formatdesc-highcharts": "Zeijsch en Leß met Fommahte un Parramehtere",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Määd e Dijajramm, jenou jenumme e Histojramm vun de Häufeschkeijte, för ene einzelne Parramehter vum semantesche MehdijaWikki.",
+	"srf-hc-paramdesc-ytitle": "De Beschrefftong för de y-Ax",
+	"srf-hc-paramdesc-xtitle": "De Beschrefftong för de x-Ax",
+	"srf-hc-paramdesc-title": "De Houp_Övverschreff vum jannze Dijajramm",
+	"srf-hc-paramdesc-subtitle": "De Onger_Övverschreff vum jannze Dijajramm",
+	"srf-hc-paramdesc-minwidth": "De kleinste zohjelohße Breijde vum Dijajramm en Pixelle",
+	"srf-hc-paramdesc-height": "De Hühde vum Dijajramm en Pixelle",
+	"srf-hc-paramdesc-frequency-histogram-bins": "De Aanzahl vun Pöngelle zom Zeije",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "De Berätte vun Wääte för de einzel Pöngelle",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "Wi eröm de Schrevv en de Skahla för de x-Ax jedriht wähe sull, en Jrahd, för e Beijschpell „<kbd lang=\"en\" xml:lang=\"en\" dir=\"ltr\">-90</kbd>“"
+}
