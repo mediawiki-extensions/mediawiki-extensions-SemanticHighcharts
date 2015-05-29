@@ -5,6 +5,7 @@
 			"Elisardojm"
 		]
 	},
+	"srf-hc-license-warning": "Este formato de saída precisa atención adicional para considerar a licenza. Por favor consulte https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
 	"srf-hc-formatdesc-highcharts": "Mostra unha lista de formatos e parámetros.",
 	"srf-hc-formatdesc-hc:frequency-histogram": "Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.",
 	"srf-hc-paramdesc-ytitle": "O título no eixo y",
