@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Esketti",
+			"Sjoerddebruin"
+		]
+	},
+	"semantichighcharts-desc": "Een SMW resultaat formaat weergeven van gegevens met behulp van het highcharts bibliotheek",
+	"srf-hc-license-warning": "Deze output formaat vergt extra aandacht met betrekking tot de vergunningverlening. Gelieve te verwijzen naar https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "Dit is de \"highcharts\" resultaat formaat voor SMW, hieronder vindt u een lijst van alle beschikbare indelingen en hun parameters.",
+	"srf-hc-formatdesc-highcharts": "Toont een lijst van formaten en parameters.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Creëert een frequentie histogram, het accepteren van een enkele SMW parameter.",
+	"srf-hc-paramdesc-ytitle": "De titel op de y-as",
+	"srf-hc-paramdesc-xtitle": "De titel op de x-as",
+	"srf-hc-paramdesc-title": "De titel van de grafiek",
+	"srf-hc-paramdesc-subtitle": "De ondertitel van de grafiek",
+	"srf-hc-paramdesc-minwidth": "De minimale breedte van de grafiek in px",
+	"srf-hc-paramdesc-height": "De hoogte van de grafiek in pixels",
+	"srf-hc-paramdesc-frequency-histogram-bins": "Het aantal vuilnisbakken te tonen",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "Het bereik van waarden plaats binnen bakken",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "De rotatie van de x-as labels. ik.e '-90'"
+}
