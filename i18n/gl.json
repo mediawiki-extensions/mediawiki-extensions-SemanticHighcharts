@@ -5,7 +5,9 @@
 			"Elisardojm"
 		]
 	},
+	"semantichighcharts-desc": "Un formato de resultado SMW que mostra os datos coa axuda da biblioteca highcharts",
 	"srf-hc-license-warning": "Este formato de saída precisa atención adicional para considerar a licenza. Por favor consulte https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "Este é o formato de resultado \"highcharts\" de SMW, abaixo atopará unha lista de todos os formatos dispoñibles e os seus parámetros.",
 	"srf-hc-formatdesc-highcharts": "Mostra unha lista de formatos e parámetros.",
 	"srf-hc-formatdesc-hc:frequency-histogram": "Crea un gráfico de histograma de frecuencia que admite un parámetro SMW.",
 	"srf-hc-paramdesc-ytitle": "O título no eixo y",
