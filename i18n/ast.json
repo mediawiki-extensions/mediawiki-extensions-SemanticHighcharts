@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"semantichighcharts-desc": "Un formatu de resultáu de MWS qu'amuesa los datos con axuda de la biblioteca highcharts",
+	"srf-hc-license-warning": "Esti formatu de salida precisa atención estra rellacionada cola llicencia. Por favor consulta https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "Esti ye'l formatu de resultaos \"highcharts\" pa MWS, abaxo alcontrarás la llista de tolos formatos y los parámetros disponibles.",
+	"srf-hc-formatdesc-highcharts": "Amuesa la llista de formatos y parámetros."
+}
