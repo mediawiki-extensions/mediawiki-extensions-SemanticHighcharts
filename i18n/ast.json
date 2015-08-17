@@ -7,5 +7,15 @@
 	"semantichighcharts-desc": "Un formatu de resultáu de MWS qu'amuesa los datos con axuda de la biblioteca highcharts",
 	"srf-hc-license-warning": "Esti formatu de salida precisa atención estra rellacionada cola llicencia. Por favor consulta https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
 	"srf-hc-format-highcharts-table-caption": "Esti ye'l formatu de resultaos \"highcharts\" pa MWS, abaxo alcontrarás la llista de tolos formatos y los parámetros disponibles.",
-	"srf-hc-formatdesc-highcharts": "Amuesa la llista de formatos y parámetros."
+	"srf-hc-formatdesc-highcharts": "Amuesa la llista de formatos y parámetros.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Crea una gráfica d'histograma de frecuencia qu'almite un únicu parámetru MWS.",
+	"srf-hc-paramdesc-ytitle": "El títulu del exe y",
+	"srf-hc-paramdesc-xtitle": "El títulu del exe x",
+	"srf-hc-paramdesc-title": "El títulu de la gráfica",
+	"srf-hc-paramdesc-subtitle": "El subtítulu de la gráfica",
+	"srf-hc-paramdesc-minwidth": "L'anchor mínimu de la gráfica en px",
+	"srf-hc-paramdesc-height": "L'altor de la gráfica en px",
+	"srf-hc-paramdesc-frequency-histogram-bins": "El númberu de conxuntos a amosar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "L'intervalu de valores a colocar nos conxuntos",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "El xiru de les etiquetes del exe x. P. ex., «-90»"
 }
