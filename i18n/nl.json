@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Esketti",
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Siebrand"
 		]
 	},
 	"semantichighcharts-desc": "Een SMW resultaat formaat weergeven van gegevens met behulp van het highcharts bibliotheek",
-	"srf-hc-license-warning": "Deze output formaat vergt extra aandacht met betrekking tot de vergunningverlening. Gelieve te verwijzen naar https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-license-warning": "Deze opmaak voor uitvoer vergt extra aandacht met betrekking tot de licentie. Kijk op https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
 	"srf-hc-format-highcharts-table-caption": "Dit is de \"highcharts\" resultaat formaat voor SMW, hieronder vindt u een lijst van alle beschikbare indelingen en hun parameters.",
 	"srf-hc-formatdesc-highcharts": "Toont een lijst van formaten en parameters.",
 	"srf-hc-formatdesc-hc:frequency-histogram": "Creëert een frequentie histogram, het accepteren van een enkele SMW parameter.",
