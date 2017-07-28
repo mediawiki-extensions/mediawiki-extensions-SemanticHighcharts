@@ -18,26 +18,26 @@ if ( is_readable( __DIR__ . '/vendor/autoload.php' ) ) {
 	include_once( __DIR__ . '/vendor/autoload.php' );
 }
 
-
+// Credits
 $wgExtensionCredits['semantic'][] = array(
 	'path' => __FILE__,
 	'name' => 'SemanticHighcharts',
-	'version' => '0.1.0',
+	'version' => '0.2.0',
 	'author' => 'Kim Eik',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SemanticHighcharts',
-	'descriptionmsg' => 'semantichighcharts-desc'
+	'descriptionmsg' => 'semantichighcharts-desc',
+	'license-name' => 'GPL-3.0+ AND CC-BY-NC-3.0'
 );
 
-//i18n
+// I18n
 $wgMessagesDirs['SemanticHighcharts'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SemanticHighcharts'] = dirname(__FILE__) . '/SemanticHighcharts.i18n.php';
 
 $basePath = '';
 if ( !file_exists( __DIR__ . '/vendor' ) ) {
 	$basePath = '../../';
 }
 
-//Resources
+// Resources
 $wgResourceModules['ext.srf.highcharts'] = array(
 	'scripts' => array(
 		$basePath.'vendor/netbrain/highcharts-js/highcharts.src.js',
@@ -69,5 +69,5 @@ $wgExtensionFunctions[] = function() {
 	}
 };
 
-
-require_once(__DIR__ . '/SemanticHighcharts.settings.php');
+// Load settings
+require_once( __DIR__ . '/SemanticHighcharts.settings.php' );
