@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"semantichighcharts-desc": "Um formato de resultado SMW que mostra os dados com a ajuda da biblioteca highcharts",
+	"srf-hc-license-warning": "Este formato de resultado exige atenção à licença. Consulte https://@www.mediawiki.org/wiki/Extension:SemanticHighcharts#License, por favor",
+	"srf-hc-format-highcharts-table-caption": "Este é o formato de resultado \"highcharts\" do SMW. Abaixo encontrará uma lista de todos os formatos disponíveis e dos respetivos parâmetros.",
+	"srf-hc-formatdesc-highcharts": "Mostra uma lista de formatos e parâmetros.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "Cria um gráfico de histograma de frequência que aceita um só parâmetro SMW.",
+	"srf-hc-paramdesc-ytitle": "O título do eixo y",
+	"srf-hc-paramdesc-xtitle": "O título do eixo x",
+	"srf-hc-paramdesc-title": "O título do gráfico",
+	"srf-hc-paramdesc-subtitle": "O subtítulo do gráfico",
+	"srf-hc-paramdesc-minwidth": "A largura mínima do gráfico em pixéis",
+	"srf-hc-paramdesc-height": "A altura do gráfico em pixéis",
+	"srf-hc-paramdesc-frequency-histogram-bins": "O número de conjuntos a mostrar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "O intervalo de valores a colocar nos conjuntos",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "A rotação das etiquetas do eixo x. Por exemplo, '-90'"
+}
