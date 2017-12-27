@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eduardo Addad de Oliveira"
+		]
+	},
+	"srf-hc-paramdesc-ytitle": "O título do eixo y",
+	"srf-hc-paramdesc-xtitle": "O título do eixo x",
+	"srf-hc-paramdesc-title": "O título do gráfico",
+	"srf-hc-paramdesc-subtitle": "O subtítulo do gráfico",
+	"srf-hc-paramdesc-minwidth": "A largura mínima do gráfico em pixéis",
+	"srf-hc-paramdesc-height": "A altura do gráfico em pixéis",
+	"srf-hc-paramdesc-frequency-histogram-bins": "O número de caixas para mostrar",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "O intervalo de valores a colocar dentro das caixas"
+}
