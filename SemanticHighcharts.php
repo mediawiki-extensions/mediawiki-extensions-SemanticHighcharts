@@ -26,7 +26,7 @@ $wgExtensionCredits['semantic'][] = array(
 	'author' => 'Kim Eik',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SemanticHighcharts',
 	'descriptionmsg' => 'semantichighcharts-desc',
-	'license-name' => 'GPL-3.0+ AND CC-BY-NC-3.0'
+	'license-name' => 'GPL-3.0-or-later AND CC-BY-NC-3.0'
 );
 
 // I18n
