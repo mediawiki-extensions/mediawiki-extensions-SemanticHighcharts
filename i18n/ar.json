@@ -1,8 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gagnabil"
+			"Gagnabil",
+			"ديفيد"
 		]
 	},
-	"srf-hc-paramdesc-title": "عنوان المخطّط"
+	"semantichighcharts-desc": "تنسيق نتيجة SMW يعرض البيانات بمساعدة مكتبة highcharts",
+	"srf-hc-license-warning": "يتطلب تنسيق الإخراج هذا مزيدا من الاهتمام فيما يتعلق بالترخيص; يرجى الرجوع إلى https://www.mediawiki.org/wiki/Extension:SemanticHighcharts#License",
+	"srf-hc-format-highcharts-table-caption": "هذا هو تنسيق نتيجة \"highcharts\" لـSMW، أدناه ستجد قائمة بجميع التنسيقات المتوفرة ومعلماتها.",
+	"srf-hc-formatdesc-highcharts": "يعرض قائمة بالتنسيقات والمعلمات.",
+	"srf-hc-formatdesc-hc:frequency-histogram": "ينشئ مخطط مدرج تكراري، يقبل معلمة SMW واحدة.",
+	"srf-hc-paramdesc-ytitle": "العنوان على المحور الصادي",
+	"srf-hc-paramdesc-xtitle": "العنوان على المحور السيني",
+	"srf-hc-paramdesc-title": "عنوان المخطّط",
+	"srf-hc-paramdesc-subtitle": "العنوان الفرعي للمخطط",
+	"srf-hc-paramdesc-minwidth": "الحد الأدنى لعرض الرسم البياني بالبكسل",
+	"srf-hc-paramdesc-height": "ارتفاع الرسم البياني بالبكسل",
+	"srf-hc-paramdesc-frequency-histogram-bins": "عدد الصناديق المراد عرضها",
+	"srf-hc-paramdesc-frequency-histogram-binrange": "نطاق القيم لوضعها داخل صناديق",
+	"srf-hc-paramdesc-frequency-histogram-xlrotation": "تدوير تسميات المحور س: أي \"-90\""
 }
